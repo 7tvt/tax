@@ -1,0 +1,17 @@
+fire
+regex
+requests
+tqdm
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+pypdf
+faiss-cpu
+transformers
+torch
+fastapi
+uvicorn
+python-dotenv
+streamlit
+    
